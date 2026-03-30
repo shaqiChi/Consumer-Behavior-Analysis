@@ -1,4 +1,5 @@
 # Consumer Behavior Pipeline
+[![DOI](https://zenodo.org/badge/1195815423.svg)](https://doi.org/10.5281/zenodo.19326207)
 
 This project presents a complete analytical pipeline for sentiment analysis and consumer behavior understanding using Amazon and Yelp datasets. It integrates classical machine learning, deep learning, and transformer-based models (RoBERTa-Large), along with interpretability techniques.
 
