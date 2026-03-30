@@ -1,11 +1,10 @@
-# AI-Based Sentiment Analysis & Consumer Behavior Pipeline
+# Consumer Behavior Pipeline
 
-## 📌 Overview
 This project presents a complete analytical pipeline for sentiment analysis and consumer behavior understanding using Amazon and Yelp datasets. It integrates classical machine learning, deep learning, and transformer-based models (RoBERTa-Large), along with interpretability techniques.
 
 ---
 
-## 📂 Datasets
+## Datasets
 - **Amazon Reviews Dataset**
 - **Yelp Reviews Dataset**
 
@@ -16,7 +15,7 @@ Both datasets are used for:
 
 ---
 
-## ⚙️ Pipeline
+##  Pipeline
 
 ### 1. Data Preprocessing
 - Lowercasing
@@ -81,7 +80,7 @@ Both datasets are used for:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Amazon reviews are more product-focused and structured
 - Yelp reviews are more experiential and context-dependent
 - Transformer models capture contextual sentiment effectively
@@ -89,7 +88,7 @@ Both datasets are used for:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -101,7 +100,7 @@ Both datasets are used for:
 
 ---
 
-## 📌 Contribution
+##  Contribution
 This work provides an **integrated analytical pipeline** combining:
 - Deep learning
 - Transformer models
@@ -110,5 +109,5 @@ This work provides an **integrated analytical pipeline** combining:
 
 ---
 
-## 📄 License
+##  License
 This project is intended for academic and research purposes.
